@@ -1,0 +1,36 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "Pedro Pablo"
+    },
+    {
+      "id": 2,
+      "nombre": "Javier Aragon"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "titulo": "Como crear una api",
+      "author": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Aprender a programar",
+      "author": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Como crear una aplicacion",
+      "author": 1
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "mensaje": "Wow Increible",
+      "postId": 2
+    }
+  ]
+}
